@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandraallu
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning deep learning in python
-- 💞️ I’m looking to collaborate on data analyst
+- 💞️ I’m looking to collaborate on data analyst in a reputable organization
 
 <!---
 Chandraallu/Chandraallu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
