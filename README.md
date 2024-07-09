@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Chandraallu
-- 👀 I’m interested in machine learning and data science
-- currently doing an internship with Google 
-<!---
-Chandraallu/Chandraallu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Myself Chandra Sekhara Reddy ALLU.
+Persueing final year of BTech in ANDHRA LOYOLA INSTITUTE OF ENGINEERINHG AND TECHNOLOGY,VIJAYAWADA.
+CERTIFICATIONS:
+          1)DATA SCIENCE WITH PYTHON IN MICROSOFT(COINCENT).
+          2)DATA ANALYTICS WITH PYTHON IN GOOGLE(COURSERA).
+          3)ARTIFICIAL INTELLIGENCE WITH PYTHON.
+PROGRAMMING LANGUAGES:
+    1)PYTHON
+    2)SQL,POSTGRESQL
+    3)GIT
+Good at Machine Learning and Design and Analysis of Algorithms.
